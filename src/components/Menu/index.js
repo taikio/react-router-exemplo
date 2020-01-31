@@ -12,7 +12,7 @@ const Menu = () => {
                 <NavLink to="/" exact activeClassName="side-menu-active">Home</NavLink>
             </p>
             <p>
-                <NavLink to="/sobre" exact activeClassName="side-menu-active">Sobre nós</NavLink>
+                <NavLink to="/sobre" exact activeClassName="side-menu-active">Sobre</NavLink>
             </p>
             
         </div>
