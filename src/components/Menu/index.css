@@ -1,0 +1,24 @@
+.side-menu {
+    padding: 10px 16px;
+    background-color: blueviolet !important;
+    height: 100vh;
+    border-radius: 0 10px  10px 0;
+    box-shadow: 6px 1px 6px #ccc9c9;
+
+}
+.side-menu h3 {
+    color: cornsilk;
+}
+
+.side-menu a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.side-menu a:hover {
+    color: #fff;
+}
+
+.side-menu-active {
+    color: #9d9d9d !important;
+}
